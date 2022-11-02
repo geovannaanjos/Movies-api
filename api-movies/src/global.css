@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter+Tight:ital,wght@0,100;0,200;1,200&family=League+Spartan:wght@300;400;500;600;700&family=Philosopher&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'League Spartan', sans-serif;
+}
+
+body{
+  background-color: #000;
+  color: #fff;
+  padding: 2rem;
+}
+
+
